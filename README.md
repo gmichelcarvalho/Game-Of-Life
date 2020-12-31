@@ -1,3 +1,3 @@
 # Game-Of-Life
  
-![](gameoflife.mp4)
+![](gameoflife.gif)
